@@ -1,9 +1,9 @@
 ==========THEME==========
 1: Copy everything from the included Theme folder to "C:\Windows\Resources\Themes".
-2. Use SecureUXTheme, UltraUXThemePatcher, or the UxTheme Hook Windhawk mod to apply the theme.
+2: Use SecureUXTheme, UltraUXThemePatcher, or the UxTheme Hook Windhawk mod to apply the theme.
 
 WHICH THEME DO I USE?
-That depends your preferences:
+That depends on your preferences:
  - Small title bar buttons will allow smaller buttons, but will look extra small when maximized.
  - Square corners will have square border corners.
 
@@ -11,7 +11,7 @@ Note that the Windows 7 alt tab menu is now available with aero7-11 round. The V
 
 ==========BORDERS==========
  - This is required for DWMBlurGlass and MicaForEveryone only
- - Instructions are in "Border" folder under "WindhawkHowTo.txt"
+ - Instructions are in the "Border" folder under "WindhawkHowTo.txt"
 
 ==========GLASS==========
 
